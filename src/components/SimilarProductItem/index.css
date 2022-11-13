@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.similar-p-container {
+  width: 250px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+}
+
+.similar-images {
+  min-height: 250px;
+  border-radius: 7px;
+  width: 240px;
+}
+.similar-p-title {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #1e293b;
+  font-family: roboto;
+  text-align: left;
+  margin-bottom: 0px;
+}
+.similar-p-brand {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 18px;
+  margin: 0px;
+  margin-top: 5px;
+}
+.price-and-rating-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  height: 50px;
+}
+.product-details-price1 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
